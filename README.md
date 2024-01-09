@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/joyall2812/StreamLit_Projects">
-    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="5000" height="100">
+    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="500" height="100">
   </a>
 
   <h3 align="center">🚀 StreamLit Projects Showcase</h3>
