@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/joyall2812/StreamLit_Projects">
-    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="200" height="80">
+    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="5000" height="100">
   </a>
 
   <h3 align="center">🚀 StreamLit Projects Showcase</h3>
@@ -12,9 +12,9 @@
     <br />
     <a href="#projects">🔍 View Projects</a>
     ·
-    <a href="https://github.com/YourUsername/StreamLit_Projects/issues">🐞 Report Bug</a>
+    <a href="https://github.com/joyall2812/StreamLit_Projects/issues">🐞 Report Bug</a>
     ·
-    <a href="https://github.com/YourUsername/StreamLit_Projects/issues">🚀 Request Feature</a>
+    <a href="https://github.com/joyall2812/StreamLit_Projects/issues">🚀 Request Feature</a>
   </p>
 </p>
 
@@ -42,6 +42,7 @@ Welcome to the StreamLit Projects Showcase! 🚀 Explore a collection of interac
 * [Streamlit](https://streamlit.io/) 🌐
 * [Python](https://www.python.org/) 🐍
 
+<!-- projects -->
 <!-- COINPULSE - THE COIN CONVERTER -->
 ## CoinPulse - The Coin Converter
 
