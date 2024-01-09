@@ -26,7 +26,6 @@
 * [CoinPulse - The Coin Converter](#coinpulse---the-coin-converter)
   * [Overview](#overview)
   * [Key Features](#key-features)
-  * [Usage](#usage)
 * [Future Projects](#future-projects)
 * [Get Started](#get-started)
 * [Contributions](#contributions)
@@ -55,39 +54,36 @@ CoinPulse is an intuitive and interactive currency converter web app built with 
 - **Real-Time Data:** Get up-to-date exchange rates for a wide range of currencies.
 - **Interactive Interface:** Easily select currencies and convert amounts with just a few clicks.
 - **User-Friendly Design:** A clean and intuitive design for a seamless user experience.
+<!-- FUTURE PROJECTS -->
+##Future Projects
+Stay tuned for more exciting Streamlit projects to be added to this repository. Each project is designed to showcase the capabilities of Streamlit in different domains, from data analysis to machine learning.
 
-### Usage
+<!-- GET STARTED -->
+##Get Started
+
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/YourUsername/StreamLit_Projects.git
-2. Navigate to the CoinPulse project folder:
-   ```bash
-   cd StreamLit_Projects/coin-converter
 
-3.Run the Streamlit app:
-   ```bash
-   streamlit run app.py
+2.Explore the different project folders.
 
-### Feel free to explore, contribute, and adapt CoinPulse for your needs!
+3.Run any project using Streamlit:
 
-### Future Projects
-### Stay tuned for more exciting Streamlit projects to be added to this repository. Each project is designed to showcase the capabilities of Streamlit in different domains, from data analysis to machine learning.
+     ```bash
+     streamlit run <project-folder>/app.py
 
-## Get Started
-### Clone the repository:
-git clone https://github.com/YourUsername/StreamLit_Projects.git
 
-### Explore the different project folders.
-### Run any project using Streamlit:
-streamlit run <project-folder>/app.py
+<!-- CONTRIBUTIONS -->
+##Contributions
+Contributions are welcome! Whether you want to improve existing projects or add new ones, feel free to fork the repository and submit a pull request. 🌟
 
-## Contributions
-### Contributions are welcome! Whether you want to improve existing projects or add new ones, feel free to fork the repository and submit a pull request. 🌟
+<!-- LICENSE -->
+##License
+This repository is open-sourced under the MIT License.
 
-## License
-### This repository is open-sourced under the MIT License.
+<!-- CONTACT -->
+Contact
+Joyal vs - @joyyalll - 📧 joyalvs28@gmail.com
 
-## Contact
-### Your Name - @YourTwitter - 📧 email@example.com
-
-## Project Link: https://github.com/YourUsername/StreamLit_Projects
+Project Link: https://github.com/joyall2812/StreamLit_Projects
