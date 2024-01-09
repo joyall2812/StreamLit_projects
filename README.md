@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/joyall2812/StreamLit_Projects">
-    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="500" height="100">
+    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="500" height="80">
   </a>
 
   <h3 align="center">🚀 StreamLit Projects Showcase</h3>
@@ -42,7 +42,7 @@ Welcome to the StreamLit Projects Showcase! 🚀 Explore a collection of interac
 * [Streamlit](https://streamlit.io/) 🌐
 * [Python](https://www.python.org/) 🐍
 
-##projects
+## projects
 
 <!-- COINPULSE - THE COIN CONVERTER -->
 ### CoinPulse - The Coin Converter
