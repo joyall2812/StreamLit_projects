@@ -60,32 +60,34 @@ CoinPulse is an intuitive and interactive currency converter web app built with 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/StreamLit_Projects.git
-# Navigate to the CoinPulse project folder:
-cd StreamLit_Projects/coin-converter
+2. Navigate to the CoinPulse project folder:
+   ```bash
+   cd StreamLit_Projects/coin-converter
 
-# Run the Streamlit app:
-streamlit run app.py
+3.Run the Streamlit app:
+   ```bash
+   streamlit run app.py
 
-# Feel free to explore, contribute, and adapt CoinPulse for your needs!
+### Feel free to explore, contribute, and adapt CoinPulse for your needs!
 
-# Future Projects
-# Stay tuned for more exciting Streamlit projects to be added to this repository. Each project is designed to showcase the capabilities of Streamlit in different domains, from data analysis to machine learning.
+### Future Projects
+### Stay tuned for more exciting Streamlit projects to be added to this repository. Each project is designed to showcase the capabilities of Streamlit in different domains, from data analysis to machine learning.
 
-# Get Started
-# Clone the repository:
+## Get Started
+### Clone the repository:
 git clone https://github.com/YourUsername/StreamLit_Projects.git
 
-# Explore the different project folders.
-# Run any project using Streamlit:
+### Explore the different project folders.
+### Run any project using Streamlit:
 streamlit run <project-folder>/app.py
 
-# Contributions
-# Contributions are welcome! Whether you want to improve existing projects or add new ones, feel free to fork the repository and submit a pull request. 🌟
+## Contributions
+### Contributions are welcome! Whether you want to improve existing projects or add new ones, feel free to fork the repository and submit a pull request. 🌟
 
-# License
-# This repository is open-sourced under the MIT License.
+## License
+### This repository is open-sourced under the MIT License.
 
-# Contact
-# Your Name - @YourTwitter - 📧 email@example.com
+## Contact
+### Your Name - @YourTwitter - 📧 email@example.com
 
-# Project Link: https://github.com/YourUsername/StreamLit_Projects
+## Project Link: https://github.com/YourUsername/StreamLit_Projects
