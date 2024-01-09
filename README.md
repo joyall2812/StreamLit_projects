@@ -55,11 +55,11 @@ CoinPulse is an intuitive and interactive currency converter web app built with 
 - **Interactive Interface:** Easily select currencies and convert amounts with just a few clicks.
 - **User-Friendly Design:** A clean and intuitive design for a seamless user experience.
 <!-- FUTURE PROJECTS -->
-##Future Projects
+## Future Projects
 Stay tuned for more exciting Streamlit projects to be added to this repository. Each project is designed to showcase the capabilities of Streamlit in different domains, from data analysis to machine learning.
 
 <!-- GET STARTED -->
-##Get Started
+## Get Started
 
 1. Clone the repository:
 
@@ -75,15 +75,15 @@ Stay tuned for more exciting Streamlit projects to be added to this repository. 
 
 
 <!-- CONTRIBUTIONS -->
-##Contributions
+## Contributions
 Contributions are welcome! Whether you want to improve existing projects or add new ones, feel free to fork the repository and submit a pull request. 🌟
 
 <!-- LICENSE -->
-##License
+## License
 This repository is open-sourced under the MIT License.
 
 <!-- CONTACT -->
-Contact
+## Contact
 Joyal vs - @joyyalll - 📧 joyalvs28@gmail.com
 
 Project Link: https://github.com/joyall2812/StreamLit_Projects
