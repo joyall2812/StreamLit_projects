@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/YourUsername/StreamLit_Projects">
-    <img src="images/streamlit_logo.png" alt="StreamLit Projects Logo" width="200" height="80">
+  <a href="https://github.com/joyall2812/StreamLit_Projects">
+    <img src="images/streamlit-logo-secondary-colormark-darktext.png" alt="StreamLit Projects Logo" width="200" height="80">
   </a>
 
   <h3 align="center">🚀 StreamLit Projects Showcase</h3>
