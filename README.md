@@ -42,9 +42,10 @@ Welcome to the StreamLit Projects Showcase! 🚀 Explore a collection of interac
 * [Streamlit](https://streamlit.io/) 🌐
 * [Python](https://www.python.org/) 🐍
 
-<!-- projects -->
+##projects
+
 <!-- COINPULSE - THE COIN CONVERTER -->
-## CoinPulse - The Coin Converter
+### CoinPulse - The Coin Converter
 
 ![CoinPulse Demo](coin-converter/coinpulse_demo.gif)
 
