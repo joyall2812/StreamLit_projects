@@ -66,14 +66,14 @@ Stay tuned for more exciting Streamlit projects to be added to this repository. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/StreamLit_Projects.git
+   git clone https://github.com/joyall2812/StreamLit_Projects.git
 
 2.Explore the different project folders.
 
 3.Run any project using Streamlit:
 
-     ```bash
-     streamlit run <project-folder>/app.py
+      ```bash
+      streamlit run <project-folder>/app.py
 
 
 <!-- CONTRIBUTIONS -->
